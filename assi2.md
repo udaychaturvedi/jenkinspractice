@@ -16,7 +16,9 @@ Think of other system specific settings that you should manage
 
 
 ### Manage Softwares
+
 - I have installed nginx and tomcat9
+ 
 ![4 1](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/3aff51e2-1524-4b4f-91dc-4a03e13d5c9b)
 
 
@@ -25,14 +27,18 @@ Think of other system specific settings that you should manage
 
 
 ### Manage Users
+
 - I have created "user1" & "user2" and deleted "user1"
 
 ![IMG_20240115_185032](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/ba7ef517-d533-42eb-aa8d-b9f7d9624559)
 
 
 ### Manage Repo
+
 - I have cloned spring3hibernate repo to server
+
 ![IMG_20240115_184914](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/e3b5c0b8-e550-47f5-afb5-92d43b40bd4d)
+
 ![4 2](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/90557ada-f0f6-4e1a-9aff-eb7a876afd1d)
 
 
