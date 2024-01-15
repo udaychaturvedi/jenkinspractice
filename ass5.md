@@ -19,11 +19,13 @@ This Ansible role is designed to install and configure Nginx on various Linux di
 
 ## nginx_roles structure
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/9360a5f9-ac16-4d03-bfdf-c7b283e190da)
+![IMG_20240115_190358](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/3f69c247-c669-43af-bb66-b7b993e15d85)
+
 
 ## Execution of playbook
+![IMG_20240115_190316](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/42db5eb2-759a-4710-aa65-91c8a16d2b7f)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/17d4801b-70f4-43fc-bade-bcf988710e86)
+
 
 ## nginx successfully installed
 
