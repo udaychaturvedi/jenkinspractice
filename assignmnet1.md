@@ -27,28 +27,30 @@
 - ansible all -m group -a "name=NinjaTeam state=present" -b
 
 ##### Group NinjaTeam has been created
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/fff727aa-b137-4cac-a855-12d126f574cb)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/6531cac6-f0ca-4b1e-a5e1-dd1189e9cea2)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/98d17a97-0e61-4dcd-8916-0c631575c117)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/2aae690e-807b-4bca-9633-e00cf4a855c9)
+
 
 ##### Add a User (Simulate) under a team ex: Nitish added to team1 Ensure below constraints are met:
 
 - ansible all -m user -a "name=Nitish2 group=NinjaTeam state=present" -b 
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/73d114ec-1f1d-4ad6-b331-3042faf13949)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/17e9e44c-90ce-4796-9e70-b68c21b31969)
+
 
 ##### User Nitish2 has been created under group NinjaTeam
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/fbef47cc-8bab-487f-81a0-ca2cbc75e73e)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/a184c122-58c0-4ebe-80cf-f3598b5b6c6d)
+
 
 #### A user should have read,write, execute access to home directory
 
 - ansible all -m file -a "path=/home/Nitish2 state=directory mode=0755" -b
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/33591e2c-af54-468f-bb81-47af53610f21)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/90bfa9a4-c3be-4566-a7b4-81e9aa8d6dd7)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/2bf584ce-2436-47a6-a871-c00dd02fcf1b)
 
 ##### All the users of same team should have read and excute access to home directory of fellow team members.
 
@@ -60,7 +62,8 @@
 
 - ansible all -m file -a "path=/etc/skel/team state=directory mode=0777" -b
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/8874577e-6678-4d8f-87f8-ddde10fce99f)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/680212d3-956f-4c8d-9f9a-54d1cad6c6d3)
+
 
 ![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/200d4ff6-379b-4659-928b-58496c38752c)
 
@@ -70,9 +73,11 @@
 
 - ansible all -m file -a "path=/etc/skel/ninja state=directory mode=0777" -b
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/eff3dc77-3c4a-4c35-855c-5f47a63496ac)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/8db13008-25c2-4725-90bc-97a5fa66aef0)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/200d4ff6-379b-4659-928b-58496c38752c)
+
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/cc56f838-9caa-4dd4-b9db-f65da09d1a8d)
+
 
 ![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/8595ceb4-23d1-490c-a6e1-33b315812b9c)
 
@@ -82,11 +87,12 @@
 
 - ansible all -m user -a "name=Nitish2 shell=/bin/bash state=present" -b    
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/7c43cf39-7a99-4a40-ae9c-6a465232ee8b)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/bbea48d2-d355-4829-824d-32825f48ce97)
 
 ##### Shell has been changed
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/9954b4ac-1c3f-4fda-a1e9-c8b1d5bd3f87)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/f9836f3a-634c-4749-9207-8093d79f1805)
+
 
 ##### Change user password
 
