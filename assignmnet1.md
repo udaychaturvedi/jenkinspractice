@@ -54,7 +54,8 @@
 
 ##### All the users of same team should have read and excute access to home directory of fellow team members.
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/90bfa9a4-c3be-4566-a7b4-81e9aa8d6dd7)
+
+![1 1](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/0dc00120-2033-49db-ba7c-cbf6936ce4ad)
 
 ##### In home directory of every user there should be 2 shared directories
 
@@ -64,10 +65,14 @@
 
 ![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/680212d3-956f-4c8d-9f9a-54d1cad6c6d3)
 
+![1 2](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/21cbfc05-daf0-4c64-b80c-e0c2f3ae02aa)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/200d4ff6-379b-4659-928b-58496c38752c)
+![1 3](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/1b4201d4-11ce-49dd-93a1-3c5760cf5b21)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/8595ceb4-23d1-490c-a6e1-33b315812b9c)
+
+
+
+
 
 ##### Ninja: All ninja's will have full access
 
@@ -78,8 +83,9 @@
 
 ![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/cc56f838-9caa-4dd4-b9db-f65da09d1a8d)
 
+![1 4](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/b0b7b84b-4c98-43f8-9f55-94424e677be1)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/8595ceb4-23d1-490c-a6e1-33b315812b9c)
+
 
 ### Additional Features:
 
@@ -103,7 +109,8 @@
 
 Nitish2 password has been changed
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/fa50b095-40b9-412d-890e-6177c422e0de)
+![1 5](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/9b053573-3652-4b6c-91b5-34def3c67738)
+
 
 # Delete user
 
@@ -113,7 +120,8 @@ ansible all -m user -a "name=Nitish2 state=absent" -b
 
 Nitish2 user has been deleted
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/41f92e47-17de-4a80-bfda-accc85bcc655)
+![1 6](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/b98b2150-1443-47ab-b5f5-43c30a4b5172)
+
 
 ###### List user
 
