@@ -17,24 +17,28 @@ Think of other system specific settings that you should manage
 
 ### Manage Softwares
 - I have installed nginx and tomcat9
+![4 1](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/3aff51e2-1524-4b4f-91dc-4a03e13d5c9b)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/77ba0e4a-6ad3-4ac8-a25d-3091c84585f0)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/ca3e9beb-69d7-490d-adc2-271eb1cd751a)
+![4 2](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/dc3bb016-a7f4-45dc-9c3d-5b3984bf7d0a)
+
+
 
 ### Manage Users
 - I have created "user1" & "user2" and deleted "user1"
 
 ![IMG_20240115_185032](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/ba7ef517-d533-42eb-aa8d-b9f7d9624559)
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/518c9a1c-9c7a-463a-8f74-5837e1a27771)
+
 
 ### Manage Repo
 - I have cloned spring3hibernate repo to server
 ![IMG_20240115_184914](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/e3b5c0b8-e550-47f5-afb5-92d43b40bd4d)
+![4 2](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/90557ada-f0f6-4e1a-9aff-eb7a876afd1d)
 
 
 ### folder structure
 - I have created 2 dir named nida and sahil which you can see in the below image
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/ccae377e-4b07-4bce-a53e-5c6966445dcd)
+![4 3](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/2bc61f1c-f7b9-44dd-90dc-12301517c2e4)
+
 
