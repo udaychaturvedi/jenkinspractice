@@ -98,7 +98,8 @@
 
 - ansible all -m user -a "name=Nitish2 update_password=always password={{ newpassword|password_hash('sha512') }}" -b --extra-vars "newpassword=123456"
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/35da1d06-459c-4981-b3c3-8a979dc0b4f6)
+![IMG_20240115_192152](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/7f848692-51fa-4181-84df-c64c6fd491ab)
+
 
 Nitish2 password has been changed
 
@@ -107,8 +108,8 @@ Nitish2 password has been changed
 # Delete user
 
 ansible all -m user -a "name=Nitish2 state=absent" -b
+![a (1)](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/37f8b10e-0f58-4077-80ce-f0dce4861192)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/d0b06ff8-c24d-403d-9384-002726cd2e43)
 
 Nitish2 user has been deleted
 
@@ -120,15 +121,16 @@ Nitish2 user has been deleted
 
 ##### Below is the list of users
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/629f8612-c584-4783-b885-3c99e9e2d1c7)
+![IMG_20240115_192208](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/52056009-884d-4c38-8c61-d180cfa4f204)
 
 ##### Delete Group
 
 ansible all -m group -a "name=NinjaTeam state=absent" -b
 
 ##### group NinjaTeam has been deleted
+![b (1)](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/4cec790e-c4e9-42a3-a4a0-74453297ccb2)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/9c9e0e74-25d1-469e-9413-3cde3caa2cc5)
+
 
 ##### NinjaTeam is absent in screenshot
 
