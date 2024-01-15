@@ -29,9 +29,10 @@ This Ansible role is designed to install and configure Nginx on various Linux di
 
 ## nginx successfully installed
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/a5fa4369-114f-4a10-afa8-b2fc0e502d22)
+![5 1](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/383cea4f-e100-48dd-b732-2d6626b8eac5)
 
 ## Connection is successful with the pubilc IP in browser
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/a2fd65e3-69f7-44c2-963a-0e685cd4a5a1)
+![5 2](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/0c39cc5c-7f48-44d0-af4b-14239f47e7aa)
+
 
