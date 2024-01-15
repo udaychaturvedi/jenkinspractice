@@ -11,7 +11,9 @@ Think of other system specific settings that you should manage
 ## Step1:
 ### Execution of playbook:
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/515dcf2a-9be9-4b74-8375-2ae29edac60d)
+![IMG_20240115_184942](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/f9f26406-96ee-419e-b920-3e4068757a1a)
+
+
 
 ### Manage Softwares
 - I have installed nginx and tomcat9
@@ -23,14 +25,13 @@ Think of other system specific settings that you should manage
 ### Manage Users
 - I have created "user1" & "user2" and deleted "user1"
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/59358d87-5307-45c7-a3b4-42e2d0689181)
-
+![IMG_20240115_185032](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/ba7ef517-d533-42eb-aa8d-b9f7d9624559)
 ![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/518c9a1c-9c7a-463a-8f74-5837e1a27771)
 
 ### Manage Repo
 - I have cloned spring3hibernate repo to server
+![IMG_20240115_184914](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/e3b5c0b8-e550-47f5-afb5-92d43b40bd4d)
 
-![image](https://github.com/LuckyJayanth/jayanth/assets/153024353/9e82e5ef-e5fd-4167-a9d2-f1d87e9b1eec)
 
 ### folder structure
 - I have created 2 dir named nida and sahil which you can see in the below image
