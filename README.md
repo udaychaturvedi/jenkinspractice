@@ -1,12 +1,12 @@
-# Ansible Role for Nginx
+# Ansible Role for Jenkins
 
 ## Overview
 
-This Ansible role is designed to install and configure Nginx on various Linux distributions. The role is version-specific, OS-independent, and allows users to customize configurations through variables. It utilizes Jinja templates to dynamically update configuration files and includes handlers for separate management of tasks.
+Organize your Ansible project using roles. A role is a collection of tasks, handlers, and configurations that can be reused across multiple playbooks.
 
 ## Features
 
-- Installs a specific version of Nginx.
+- Installs a specific version of Jenkins.
 - OS-independent - supports various Linux distributions.
 - Variable-based configuration for flexibility.
 - Utilizes Jinja templates for dynamic configuration file updates.
@@ -17,23 +17,31 @@ This Ansible role is designed to install and configure Nginx on various Linux di
 - Ansible installed on the control machine.
 - Target machines should have SSH access configured.
 
-## nginx_roles structure
+## Jenkins_roles structure
 
-![IMG_20240115_172424 (1)](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/cdb8d65a-74b6-4423-b9ee-cdffcae32b21)
+
+![image (2)](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/0d25f266-ae8d-4c60-abee-72a2047e8946)
+
+
 
 
 ## Execution of playbook
 
-![IMG_20240115_183705](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/ff9b8b08-677b-4d7d-a662-7bf49ec3123d)
+![image](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/4e29622a-0b66-417a-bb1f-ae5b8987b82b)
 
 
-## nginx successfully installed
-![2 1](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/6ed57975-103c-4714-8aad-ff0eb2efbd3d)
+
+## Jenkins successfully installed
+
+
+![Screenshot from 2024-01-15 22-39-39](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/aab7081c-9e9b-4213-b195-b4521c686465)
+
 
 
 
 ## Connection is successful with the pubilc IP in browser
 
-![2 2](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/9704e363-4cd2-4fb4-bdc2-b9c736c90e3d)
+![Screenshot from 2024-01-15 22-41-30](https://github.com/udaychaturvedi/jenkinspractice/assets/149717783/196b2d74-6d8b-4e8c-84cc-2725222182d2)
+
 
 
